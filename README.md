@@ -1,6 +1,6 @@
 # JabBhiBhukhhh.com
 
-\*\*
+/\*
 
 - Header
 - - Logo
@@ -9,8 +9,8 @@
 - - Search & SearchButton
 - - RestaurantContainer
 - - RestaurantCard
--      - Img
--      - Name of Restaurant, Star Rating, Delivery Time
+- - - Img
+- - - Name of Restaurant, Star Rating, Delivery Time
 - Footer
 - - Copyright
 - - Links
