@@ -64,3 +64,17 @@
 .restaurant-card:hover {
   cursor: pointer;
 }
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.shimmer-card {
+  width: 17rem;
+  background-color: #f0f0f0;
+  height: 19em;
+  margin: 1em;
+  border-radius: 1em;
+}
