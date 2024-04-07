@@ -14,7 +14,7 @@ const RestaurantCard = (props) => {
       <div className="card-data">
         <h3>{name}</h3>
         <h3>
-          {avgRating} stars | {sla.slaString}
+          {avgRating} stars | {sla?.slaString}
         </h3>
         <h4>{cuisines.join(", ")}</h4>
         <h4>{areaName}</h4>
